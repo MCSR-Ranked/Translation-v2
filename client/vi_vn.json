@@ -447,6 +447,7 @@
   "projectelo.achievement.summon_wither.description": "Triệu hồi nhầm boss",
   "projectelo.achievement.60xp": "Quá nhiều cấp độ",
   "projectelo.achievement.60xp.description": "Thu thập XP của con rồng",
+  "projectelo.achievement.armorless": "GIGACHAD",
   "projectelo.achievement.armorless.description": "Một người đàn ông thực thụ không cần đến áo giáp",
   "projectelo.achievement.bastionless": "Cổ điển",
   "projectelo.achievement.bastionless.description": "Đưa tôi trở lại năm 2020",
@@ -774,5 +775,6 @@
   "projectelo.tip_message.44": "Bastion dự kiến sẽ luôn chứa ít nhất 3 sắt và 5 đá obsidian trong rương.",
   "projectelo.tip_message.45": "Phân phối loại seed được xác định theo thứ hạng của bạn, với những người Elo thấp sẽ có hạt giống dễ hơn bình thường.",
   "projectelo.tip_message.46": "Fortress dự kiến sẽ luôn được tạo trong phạm vi 17 khối vùng của bastion. Bạn nên sử dụng pie chart để tìm hướng gần đúng.",
-  "projectelo.tip_message.47": "Ranked có 5 hạng từ 0 đến 2000 Elo: Coal, Iron, Gold, Emerald, và Diamond. Mỗi hạng có 3 bậc, và bậc 3 là cao nhất."
+  "projectelo.tip_message.47": "Ranked có 5 hạng từ 0 đến 2000 Elo: Coal, Iron, Gold, Emerald, và Diamond. Mỗi hạng có 3 bậc, và bậc 3 là cao nhất.",
+  "entity.minecraft.piglin_brute": "Ranky Brute"
 }
