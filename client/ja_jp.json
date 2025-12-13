@@ -662,6 +662,7 @@
   "projectelo.option.gui_background_type.vanilla": "バニラ",
   "projectelo.option.gui_background_type.normal": "ベーシック",
   "projectelo.option.gui_background_type.blur": "ぼかし",
+  "projectelo.option.monochrome_transition": "モノクロでの画面の移行",
   "projectelo.option.monochrome_transition.description": "有効にすると、画面を移行するときの背景が黒色になります。",
   "projectelo.option.mute_player": "%sをミュートする",
   "projectelo.option.mute_match": "この対戦中はミュート",
