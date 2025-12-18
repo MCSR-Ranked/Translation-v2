@@ -420,6 +420,7 @@
   "projectelo.player.status.dragon_death": "擊敗終界龍",
   "projectelo.player.status.blinded": "尋找要塞",
   "projectelo.player.status.eye_spy": "找到要塞",
+  "projectelo.player.status.reset_world": "重置世界",
   "projectelo.player.status.leave_match": "離開比賽",
   "projectelo.player.status.forfeit_match": "放棄比賽",
   "projectelo.player.status.complete_match": "完成比賽",
