@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "World Filter",
   "projectelo.text.match_paused": "Match Paused",
   "projectelo.text.back_to_match": "Back to Match",
+  "projectelo.text.back_to_main_menu": "Back to Main Menu",
   "projectelo.text.world_filter.description": "Hides Ranked Worlds, Atum Worlds, and \"New World\"s%s from the world list.",
   "projectelo.text.race_outdated_warning": "The weekly race for this seed has ended. No new records will be updated.",
   "projectelo.text.new_crash_report_found": "A new crash report has been found! Would you like to upload this crash report to mclo.gs for MCSR Ranked development?",
