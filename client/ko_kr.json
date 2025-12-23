@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "세계 필터",
   "projectelo.text.match_paused": "매치 중지됨",
   "projectelo.text.back_to_match": "매치 재개",
+  "projectelo.text.back_to_main_menu": "메인 메뉴로 돌아가기",
   "projectelo.text.world_filter.description": "Ranked 세계, Atum 세계, \"새로운 세계\"%s를 세계 목록에서 숨깁니다.",
   "projectelo.text.race_outdated_warning": "이 시드의 주간 레이스가 종료되었습니다. 이후 기록들은 반영되지 않습니다.",
   "projectelo.text.new_crash_report_found": "새로운 크래시 보고서가 발견되었습니다! MCSR Ranked 개발을 위해 크래시 보고서를 mclo.gs에 업로드할까요?",
