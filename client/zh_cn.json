@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "世界筛选",
   "projectelo.text.match_paused": "比赛暂停",
   "projectelo.text.back_to_match": "回到比赛",
+  "projectelo.text.back_to_main_menu": "返回主菜单",
   "projectelo.text.world_filter.description": "在世界列表中隐藏Ranked、Atum创建的世界和“新的世界”%s。",
   "projectelo.text.race_outdated_warning": "该种子的周赛已结束，新的纪录不会被上传。",
   "projectelo.text.new_crash_report_found": "已找到一个新的崩溃报告！你想将该崩溃报告上传至mclo.gs以帮助MCSR Ranked开发吗？",
