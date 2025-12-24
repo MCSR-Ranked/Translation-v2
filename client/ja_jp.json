@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "ワールドのフィルタリング",
   "projectelo.text.match_paused": "一時停止",
   "projectelo.text.back_to_match": "対戦に戻る",
+  "projectelo.text.back_to_main_menu": "メインメニューに戻る",
   "projectelo.text.world_filter.description": "ワールドリストから、Rankedワールド、Atumワールド、および「新規ワールド」%sを非表示にします。",
   "projectelo.text.race_outdated_warning": "このシードのウィークリーレースは終了しました。新しい記録の更新はありません。",
   "projectelo.text.new_crash_report_found": "新しいクラッシュレポートが見つかりました！ MCSR Rankedの開発のために、このクラッシュレポートを mclo.gs にアップロードしますか？",
