@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "Фильтр мира",
   "projectelo.text.match_paused": "Матч приостановлен",
   "projectelo.text.back_to_match": "Вернуться к матчу",
+  "projectelo.text.back_to_main_menu": "Вернуться в главное меню",
   "projectelo.text.world_filter.description": "Скрывает Ranked миры, миры Atum и «Новые миры» из списка миров.",
   "projectelo.text.race_outdated_warning": "Еженедельная гонка на этом сиде завершена. Новые рекорды обновляться не будут.",
   "projectelo.text.new_crash_report_found": "Найден новый отчёт о сбое! Хотите ли его загрузить на mclo.gs, чтобы помочь разработке MCSR Ranked?",
