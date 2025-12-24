@@ -234,6 +234,7 @@
   "projectelo.text.world_filter": "種子碼篩選",
   "projectelo.text.match_paused": "比賽暫停",
   "projectelo.text.back_to_match": "返回比賽",
+  "projectelo.text.back_to_main_menu": "返回主選單",
   "projectelo.text.world_filter.description": "隱藏競賽世界、Atum 世界和「新的世界」%s，使其不在世界列表中顯示。",
   "projectelo.text.race_outdated_warning": "此種子碼的週競賽已結束；將不再更新紀錄。",
   "projectelo.text.new_crash_report_found": "已發現新的崩潰報告！您是否願意將此崩潰報告上傳至 mclo.gs，以協助 MCSR Ranked 的開發？",
