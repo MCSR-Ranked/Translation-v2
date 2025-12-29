@@ -43,7 +43,7 @@
   "projectelo.text.insert_seed": "سييد العالم",
   "projectelo.text.insert_seed.description": "اتركه فارغًا للحصول على سييد عشوائي.",
   "projectelo.text.insert_seed_nether.description": "اتركه فارغًا لنفس السييد مثل العالم الخارجي.",
-  "projectelo.text.free_toggle_scout": "قم بتفعيل وضع الاستكشاف المجاني",
+  "projectelo.text.free_toggle_scout": "قم بتفعيل وضع الاستكشاف الحر",
   "projectelo.text.scouting_time_limit": "وقت الكشافة",
   "projectelo.text.enable_commands": "تمكين الأوامر",
   "projectelo.text.enable_seed": "قم بتمكين أمر /seed",
