@@ -793,8 +793,12 @@
   "projectelo.tip_message.37": "Als je met de rechtermuisknop op een gevuld endportaalframe blok klikt terwijl je ernaar kijkt met een Enderoog, wordt het niet gegooid",
   "projectelo.tip_message.38": "Elk Endportaalframe blok heeft bij het genereren een kans van 10% om al gevuld te zijn.",
   "projectelo.tip_message.39": "End Portaal kamers moeten minimaal 7 kamers weg genereren van de starttrap van de burcht.",
+  "projectelo.tip_message.40": "End portaal kamers, anders dan andere burcht kamers, kunnen niet worden overschreven door natuurlijke elementen zoals ravijnen.",
   "projectelo.tip_message.41": "Op elk End eiland worden dezelfde 10 obsidiaanpilaren gegenereerd, maar in verschillende configuraties.",
+  "projectelo.tip_message.42": "De kans dat de Enderdraak op bepaalde tijdstippen neerstrijkt, begint bij 1 op 13, maar wordt 1 op 3 wanneer alle 10 Endkristallen vernietigd zijn.",
+  "projectelo.tip_message.43": "De Enderdraak schiet vuurballen op de speler als er een Endkristal word gesloopt, ook als deze niet door de speler wordt gesloopt. ",
   "projectelo.tip_message.44": "De bedoelde bolwerkruïne heeft altijd minimaal 3 ijzer en 5 obsidiaan in kisten.",
+  "projectelo.tip_message.45": "De verdeling van de seeds wordt bepaald door je rang, waarbij runners met een lage Elo gemiddeld makkelijkere seeds hebben.",
   "projectelo.tip_message.46": "Het bedoelde netherfort genereert altijd binnen 17 segmenten van de bolwerkruïne. Je kan de cirkeldiagram gebruiken om een geschatte richting en afstand te bepalen.",
   "projectelo.tip_message.47": "Er zijn 5 rangen van 0 tot 2000 elo: Kool, IJzer, Goud, Smaragd en Diamant. Elke rang heeft 3 niveau's, waarvan 3 de hoogste is.",
   "entity.minecraft.piglin_brute": "Ranky Brute"
