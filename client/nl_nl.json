@@ -370,6 +370,7 @@
   "projectelo.match_flag.icarus.description": "Start de wedstrijd met 1 dekschild en 64 vuurwerk.",
   "projectelo.match_flag.half_heart": "Half-Hartje modus",
   "projectelo.match_flag.half_heart.description": "Start de wedstrijd met een half hartje (1HP).",
+  "projectelo.match_flag.hardcore": "Hardcore Modus",
   "projectelo.match_flag.hardcore.description": "De moeilijkheidsgraad van de wereld staat vast op Moeilijk en de wereld wordt automatisch herstart wanneer je dood gaat.",
   "projectelo.match_flag.no_monster_spawn_in_bastion": "Geen monsters spawnen in Bolwerkruïnes",
   "gamerule.noMonsterInBastion": "Geen monsters spawnen in Bolwerkruïnes",
