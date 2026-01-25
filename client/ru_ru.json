@@ -654,6 +654,7 @@
   "projectelo.option.opacity_hud": "Прозрачность интерфейса",
   "projectelo.option.avoid_copium": "Кнопка \"Сдаться\"",
   "projectelo.option.avoid_copium.description": "Определяет наличие кнопки \"Сдаться\" во время матча.",
+  "projectelo.option.hide_flags_from_leaderboard": "Флаги стран",
   "projectelo.option.hide_flags_from_leaderboard.description": "Показывает флаги стран игроков в таблицах лидеров.",
   "projectelo.option.chat_filter": "Фильтр чата",
   "projectelo.option.chat_filter.description": "Фильтрует нецензурную лексику в чате матча.",
