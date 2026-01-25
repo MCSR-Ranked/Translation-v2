@@ -22,6 +22,7 @@
   "projectelo.text.matchtype.ranked.description": "Spiele gegen einen ähnlich starken Gegner, auf dem selben Seed, gleichzeitig.\n\nVerbessere deine Elo-Wertung,\nindem du gegen andere Spieler antrittst.",
   "projectelo.text.matchtype.private": "Privater Raum",
   "projectelo.text.matchtype.event": "Event-Modus",
+  "projectelo.text.matchtype.event.description": "Spiele gegen einen zufälligen Gegner mit individuellen Regeln! \nDeine Elo wird durch diesen Modus nicht beeinflusst.",
   "projectelo.text.matchtype.rush": "Seed Rush",
   "projectelo.text.matchtype.rush.description": "Spiele jede Stunde gegen ähnlich starke Gegner!\nDeine Elo wird durch diesen Modus nicht beeinflusst.",
   "projectelo.text.client_version": "MCSR Ranked Client v%s",
