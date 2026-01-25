@@ -53,6 +53,7 @@
   "projectelo.text.allow_multiple_completions.description": "Ermöglicht es Spielern, die Welt nach Abschluss eines Runs zurückzusetzen. In den Ergebnissen wird nur die schnellste Zeit gewertet.\nDie Einstellung Abschlussanzahl wird ignoriert. Du musst ein Zeitlimit festlegen oder das Match-Ende erzwingen.",
   "projectelo.text.reset_timer_on_world_reset": "Starte den Timer beim Zurücksetzen der Welt neu",
   "projectelo.text.eliminate_time": "Eliminierungszeit",
+  "projectelo.text.eliminate_players": "Eliminiere Spieler",
   "projectelo.text.eliminate_players.description": "Die Anzahl der Spieler, die bei jeder Eliminierung ausscheiden.",
   "projectelo.text.reset_score": "Punkte beim Welt-Reset Zurücksetzen",
   "projectelo.text.display_score": "Punktestand im Tab anzeigen",
