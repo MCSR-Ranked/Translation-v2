@@ -1,0 +1,8 @@
+{
+  "projectelo.text.socketmessage.none": "Başlanılır...",
+  "projectelo.text.socketmessage.connecting": "Serverə qoşulur...",
+  "projectelo.text.socketmessage.authenticating": "Hesabın doğrulanır...",
+  "projectelo.text.socketmessage.verification_failed": "Hesabınızı doğrulamaq alınmadı! Oyunu yenidən başlatmağa çalışın.",
+  "projectelo.text.socketmessage.error": "Server xətası səbəbindən serverə qoşulmaq alınmadı!",
+  "projectelo.text.socketmessage.disconnected": "Serverlə əlaqəsi kəsilib. İnternetiniz sabitdir?"
+}
