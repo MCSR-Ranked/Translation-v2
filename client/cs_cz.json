@@ -739,6 +739,7 @@
   "projectelo.option.seed_type_display_casual": "Typ seedu ve Volném režimu",
   "projectelo.option.seed_type_display_casual.description": "Ukáže typ seedu na obrazovce odpočtu ve Volném režimu.",
   "projectelo.option.borderless": "Celá obrazovka bez rámečku",
+  "projectelo.warning.resource_pack": "Používáte zakázané balíčky modifikací:",
   "projectelo.warning.not_enough_memory": "Nemáte dostatek operační paměti! Zvyšte minimální přidělení paměti na %s MB nebo více.",
   "projectelo.warning.ssl_exception_try_again": "Nastala chyba \"SSLHandshakeException\". Můžete to zkusit znovu bez SSL, ale možná se tím vystavíte bezpečnostním rizikům. Pokud to nechcete, aktualizujte si Javu.",
   "projectelo.warning.atum_modified": "Používáte mod MCSR Ranked, který způsobuje některé změny v chování hry, tudíž není legální na žebříčku speedrun.com. Přejete si pokračovat?",
