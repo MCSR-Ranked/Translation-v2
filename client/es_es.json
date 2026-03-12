@@ -19,6 +19,7 @@
   "projectelo.text.matchtype.casual": "Casual",
   "projectelo.text.matchtype.casual.description": "Juega casualmente contra una amplia variedad de jugadores.\nEste modo no afectará tu elo.\n\nEl Modo para principiantes se activará automáticamente para los jugadores con un tiempo de finalización promedio alto. (Puedes desactivarlo en opciones).",
   "projectelo.text.matchtype.ranked": "Modo Competitivo",
+  "projectelo.text.matchtype.ranked.description": "Corre contra un oponente de tu mismo nivel, en la misma semilla y al mismo tiempo.\n\nMejora tu Elo compitiendo contra otros jugadores.",
   "projectelo.text.matchtype.private": "Sala Privada",
   "projectelo.text.matchtype.event": "Modo Evento",
   "projectelo.text.matchtype.event.description": "¡Corre contra oponentes aleatorios con un conjunto de reglas único!\nEste modo no afectará tu Elo.",
