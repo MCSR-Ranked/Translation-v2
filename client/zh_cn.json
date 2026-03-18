@@ -746,6 +746,7 @@
   "projectelo.option.seed_type_display_casual": "休闲模式中显示种子类型",
   "projectelo.option.seed_type_display_casual.description": "在休闲模式倒计时中显示种子类型。",
   "projectelo.option.borderless": "无边框全屏",
+  "projectelo.option.narrator_hotkey": "复述功能快捷键",
   "projectelo.option.narrator_hotkey.description": "允许“Ctrl+B”开关复述功能。",
   "projectelo.warning.resource_pack": "你正在使用非法的资源包：",
   "projectelo.warning.not_enough_memory": "你分配的内存不足！请将分配的内存增加到 %s MB或更高。",
