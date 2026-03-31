@@ -55,6 +55,7 @@
   "projectelo.text.eliminate_time": "Eliminierungszeit",
   "projectelo.text.eliminate_players": "Eliminiere Spieler",
   "projectelo.text.eliminate_players.description": "Die Anzahl der Spieler, die bei jeder Eliminierung ausscheiden.",
+  "projectelo.text.reset_score": "Punkte beim Welt-Reset zurücksetzen",
   "projectelo.text.display_score": "Punktestand im Tab anzeigen",
   "projectelo.text.completion_percentage": "Match endet nach Abschlüssen",
   "projectelo.text.completion_percentage.description.1.1": "Das Match endet, sobald jemand den Seed durchgespielt hat",
