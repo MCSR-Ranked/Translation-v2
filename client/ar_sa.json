@@ -730,6 +730,8 @@
   "projectelo.option.race_worlds_priority.description": "يُحدد أولوية الخيط الذي يُنشئ عوالم السباقات الأسبوعية في الخلفية. لا يُنصح باستخدام قيمة عالية إذا كان لديك جهاز كمبيوتر بمواصفات منخفضة، فقد يؤثر ذلك على اللعب ويسبب تأخرًا.",
   "projectelo.option.oneshot_lag_fix": "إصلاح تأخير \"Oneshot\"",
   "projectelo.option.oneshot_lag_fix.description": "سواءً لتعطيل إصلاح التأخر لطريقة قتل التنين بسهم واحد أو لا. إذا قمت بتعيين هذا الخيار على إيقاف، قد يواجه اللاعب تأخرًا شديدًا مباشرة بعد الضربة الواحدة، ولكن يمكنك التحقق من رسم بياني للتيك على شاشة (F3) بسهولة أكبر.",
+  "projectelo.option.sync_chunk_writes": "تزامن كتابات قطع العالم",
+  "projectelo.option.sync_chunk_writes.description": "تفعيل خاصية الكتابة المتزامنة للقطع. يمنع هذا فقدان البيانات وتلفها بعد حدوث عطل.\n\nقد يؤدي ذلك إلى تبطيء الخادم بسبب تباطؤ عمليات الإدخال/الإخراج.",
   "projectelo.option.reset_button_cooldown": "مهلة زر إعادة التعيين",
   "projectelo.option.reset_button_cooldown.description": "لا يمكنك النقر على زر إعادة التعيين إلا بعد مرور فترة تهدئة أثناء المباراة.",
   "projectelo.option.ranked_bot": "روبوت مصنف",
