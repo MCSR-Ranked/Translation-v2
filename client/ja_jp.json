@@ -41,6 +41,7 @@
   "projectelo.text.failed_find_match.maintaining": "サーバーがメンテナンス中のためマッチングに失敗しました。Discordサーバーで最新情報を確認してください。",
   "projectelo.text.failed_find_match.already_playing": "すでに対戦に参加しています。バグの可能性があるので、ご報告ください。",
   "projectelo.text.failed_find_match.spectator": "スペクテイターアカウントを利用しています。プライベートルームへの参加/観戦のみ可能です。",
+  "projectelo.text.failed_find_match.max_players": "このルームは既にいっぱいです。",
   "projectelo.text.under_maintenance": "現在、メンテナンスのためマッチングできません。Discordサーバーで最新情報を確認してください。",
   "projectelo.text.insert_seed": "ワールドのシード",
   "projectelo.text.insert_seed.description": "ランダムシードの場合は空白にします。",
