@@ -61,6 +61,7 @@
   "projectelo.text.display_score": "Exibir pontuação no Tab",
   "projectelo.text.completion_percentage": "Conclusões para Terminar Partida",
   "projectelo.text.private_room_max_players": "Número Máximo de Jogadores ",
+  "projectelo.text.private_room_max_players.description": "O número máximo de jogadores que você pode configurar é %s.",
   "projectelo.text.completion_percentage.description.1.1": "A partida termina quando alguém completar o jogo",
   "projectelo.text.completion_percentage.description.1.2": "ou restando apenas 1 jogador.",
   "projectelo.text.completion_percentage.description.2.1": "A partida termina quando %s jogador(es) completarem a partida",
