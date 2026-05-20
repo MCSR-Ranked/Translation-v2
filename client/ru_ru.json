@@ -42,6 +42,7 @@
   "projectelo.text.failed_find_match.already_playing": "Вы уже присоединились к матчу. Возможно, это ошибка; пожалуйста, сообщите о ней.",
   "projectelo.text.failed_find_match.spectator": "Вы используете учётную запись наблюдателя. Вы можете присоединяться и наблюдать только за приватными комнатами.",
   "projectelo.text.forfeit_warning": "Вы часто покидали игру или сдавались.",
+  "projectelo.text.failed_find_match.max_players": "Эта комната заполнена.",
   "projectelo.text.under_maintenance": "Подбор игроков недоступен: Сервер на техобслуживании. Следите за обновлениями в Discord-сервере.",
   "projectelo.text.insert_seed": "Сид мира",
   "projectelo.text.insert_seed.description": "Оставьте пустым для случайного сида.",
