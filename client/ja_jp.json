@@ -428,6 +428,8 @@
   "projectelo.match_flag.force_rejoin_disconnection.description": "プレイヤーが降参またはルーム退出することなく短時間でサーバーに再接続すると、このルームのままリセットされたワールドでプレイを続けます。",
   "projectelo.match_flag.replace_zombie_spawner": "ゾンビスポナーの置き換え",
   "projectelo.match_flag.replace_zombie_spawner.description": "ダンジョンにてゾンビスポナーを他のモブスポナーに置き換えます。",
+  "projectelo.match_flag.ready_toggle": "プレイヤーによる準備状況の表示",
+  "projectelo.match_flag.ready_toggle.description": "ルーム内のプレイヤーは、準備完了ステータスを切り替えて状況を示すことができます。ホストと共同ホストだけが状況を確認できます。",
   "gamerule.replaceZombieSpawner": "ゾンビスポナーの置き換え",
   "gamerule.respawnAtSplit": "スプリットタイムが更新された地点にリスポーン",
   "gamerule.standardFortressSpawn": "ネザー要塞のモブスポーンを共通化",
