@@ -760,7 +760,7 @@
   "projectelo.option.oneshot_lag_fix.description": "是否关闭一箭秒龙卡顿修复。\n如果你关闭该选项，一箭秒龙后可能会有很严重的卡顿，但是读F3游戏刻图表（alt+\nF3）会更容易。",
   "projectelo.option.sync_chunk_writes": "同步区块读写",
   "projectelo.option.sync_chunk_writes.description": "是否允许同步区块读写。\n这可以防止游戏崩溃后数据丢失或损坏。\n受限于磁盘读写速度，这可能导致服务端卡顿。",
-  "projectelo.option.reset_button_cooldown": "重置世界按钮冷却世界",
+  "projectelo.option.reset_button_cooldown": "重置世界按钮冷却时间",
   "projectelo.option.reset_button_cooldown.description": "在比赛中，你只能等待冷却时间结束后才能点击重置世界按钮。",
   "projectelo.option.ranked_bot": "Ranked机器人",
   "projectelo.option.ranked_bot.difficulty.random": "随机",
