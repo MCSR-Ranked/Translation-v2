@@ -63,6 +63,8 @@
   "projectelo.text.display_score": "Score weergeven in Tablijst",
   "projectelo.text.private_room_max_players": "Maximaal Aantal Spelers in Deze Ruimte.",
   "projectelo.text.private_room_max_players.description": "Het maximaal aantal spelers dat je kan configureren is %s.",
+  "projectelo.text.vote_count": "Aantal stemmen om de Seed te veranderen",
+  "projectelo.text.vote_count.description.1": "De seed wordt veranderd wanneer %s speler(s) heeft gestemd.",
   "projectelo.text.vote_count.description.1.1": "Of hosts met een toeschouwersaccount kunnen de seed veranderen.",
   "projectelo.text.vote_count.description.0": "Alleen de hosts kunnen de seed weizigen.",
   "projectelo.text.completion_percentage": "Wedstrijd eindigt na voltooiingen",
