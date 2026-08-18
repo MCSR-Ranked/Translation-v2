@@ -275,6 +275,7 @@
   "projectelo.text.next_decay_at": "Następny zanik",
   "projectelo.text.warning_continue_world": "Wybrałeś aby kontynuować grę. Dlatego, że mecz się skończył ukończenie tego wyścigu nie zaaktualizuje danych meczowych ani twoich statystyk profilowych.",
   "projectelo.text.update_placement_progress": "Progress: %s, Trzymaj tak!",
+  "projectelo.text.worlds_count": "%s Świat(y)",
   "projectelo.text.blocks_count": "%s blok(ów)",
   "projectelo.info.show_info": "Kliknij prawym przyciskiem myszki aby zobaczyć więcej informacji!",
   "projectelo.info.ranks": "Rangi",
