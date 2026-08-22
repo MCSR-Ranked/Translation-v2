@@ -42,6 +42,7 @@
   "projectelo.text.failed_find_match.already_playing": "すでに対戦に参加しています。バグの可能性があるので、ご報告ください。",
   "projectelo.text.failed_find_match.spectator": "スペクテイターアカウントを利用しています。プライベートルームへの参加/観戦のみ可能です。",
   "projectelo.text.forfeit_warning": "あなたは短期間に何度も退出または降参しています。",
+  "projectelo.text.forfeit_panelty": "この試合で降参した場合、次の%s分間はキューに参加できなくなります。",
   "projectelo.text.failed_find_match.max_players": "このルームは既にいっぱいです。",
   "projectelo.text.under_maintenance": "現在、メンテナンスのためマッチングできません。Discordサーバーで最新情報を確認してください。",
   "projectelo.text.insert_seed": "ワールドのシード",
