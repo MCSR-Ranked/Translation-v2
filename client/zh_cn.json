@@ -1092,6 +1092,8 @@
   "projectelo.dragon.unknown": "-",
   "projectelo.dragon.front": "前",
   "projectelo.dragon.back": "后",
+  "projectelo.dragon.diagonal": "斜龙",
+  "projectelo.dragon.straight": "直龙",
   "projectelo.dragon.fast": "快型",
   "projectelo.dragon.slow": "慢型",
   "projectelo.dragon.cw": "顺时针（CW）",
